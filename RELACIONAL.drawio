@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T19:39:52.880Z" agent="5.0 (Windows)" etag="BpZvtfZj6T5JtfY-Yw9V" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-31T19:44:26.505Z" agent="5.0 (Windows)" etag="byhaAdOQp2jv5gyBO6N4" version="14.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2401" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2058" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -24,14 +24,14 @@
         <mxCell id="gr3oe_lrxex0TwQ4C50Z-4" value="&amp;nbsp;* apmaterno&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;varchar(250)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gr3oe_lrxex0TwQ4C50Z-0">
           <mxGeometry y="120" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gr3oe_lrxex0TwQ4C50Z-5" value="&lt;div align=&quot;left&quot;&gt;&amp;nbsp;* nom_empresa&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; varchar(250)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gr3oe_lrxex0TwQ4C50Z-0">
+        <mxCell id="gr3oe_lrxex0TwQ4C50Z-5" value="&lt;div align=&quot;left&quot;&gt;&amp;nbsp;* nom_empresa&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; varchar(250)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gr3oe_lrxex0TwQ4C50Z-0">
           <mxGeometry y="150" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gr3oe_lrxex0TwQ4C50Z-6" value="&amp;nbsp;° direccion&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;varchar(250)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gr3oe_lrxex0TwQ4C50Z-0">
+        <mxCell id="gr3oe_lrxex0TwQ4C50Z-6" value="&amp;nbsp;° direccion&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span&gt;varchar(250)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gr3oe_lrxex0TwQ4C50Z-0">
           <mxGeometry y="180" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gr3oe_lrxex0TwQ4C50Z-7" value="ARCHIVO" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="528" width="210" height="142" as="geometry">
+          <mxGeometry x="300" y="528" width="210" height="150" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -44,22 +44,25 @@
         <mxCell id="gr3oe_lrxex0TwQ4C50Z-10" value="* nom_archivo                varchar(250)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="gr3oe_lrxex0TwQ4C50Z-7">
           <mxGeometry y="78" width="210" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="gr3oe_lrxex0TwQ4C50Z-106" value="&lt;div align=&quot;left&quot;&gt;*surgir&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; varchar(250) &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="gr3oe_lrxex0TwQ4C50Z-7">
+          <mxGeometry y="104" width="210" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="gr3oe_lrxex0TwQ4C50Z-11" value="° descripcion                  varchar(250)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gr3oe_lrxex0TwQ4C50Z-7">
-          <mxGeometry y="104" width="210" height="26" as="geometry" />
+          <mxGeometry y="124" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gr3oe_lrxex0TwQ4C50Z-12" value="AUDITORIA" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1250" y="-50" width="220" height="98" as="geometry">
+          <mxGeometry x="1250" y="-50" width="220" height="100" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gr3oe_lrxex0TwQ4C50Z-13" value="# no_auditoria (pk)                    int(6)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" vertex="1" parent="gr3oe_lrxex0TwQ4C50Z-12">
           <mxGeometry y="26" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gr3oe_lrxex0TwQ4C50Z-14" value="# no_cliente (fk)                         int(6)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="gr3oe_lrxex0TwQ4C50Z-12">
-          <mxGeometry y="52" width="220" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="gr3oe_lrxex0TwQ4C50Z-103" value="*hora_fecha&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; date" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="gr3oe_lrxex0TwQ4C50Z-12">
-          <mxGeometry y="78" width="220" height="20" as="geometry" />
+          <mxGeometry y="52" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gr3oe_lrxex0TwQ4C50Z-105" value="&lt;div&gt;*efectuar&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; varchar(250) &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="gr3oe_lrxex0TwQ4C50Z-12">
+          <mxGeometry y="72" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gr3oe_lrxex0TwQ4C50Z-15" value="AUDITOR" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="910" y="-200" width="250" height="286" as="geometry">
